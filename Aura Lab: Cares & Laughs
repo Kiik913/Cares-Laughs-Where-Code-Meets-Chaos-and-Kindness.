@@ -2952,6 +2952,14 @@ PURPOSE AND NONINFRINGEMENT.
   tags: ["minecraft", "worldedit", "curseforge", "build-tool"]
 },
 {
+  id: "alternativeto",
+  type: "web-app",
+  title: "AlternativeTo",
+  desc: "Crowdsourced directory that helps you find alternatives to any app or service, with user votes, tags, and filters.",
+  url: "https://alternativeto.net/",
+  tags: ["web", "directory", "software", "tools", "productivity"]
+},
+{
   id: "nyan-cat",
   title: "Nyan Cat – Endless Meme",
   desc: "Looping Nyan Cat site: flying pop‑tart cat, rainbow trail, and the classic meme song.",
