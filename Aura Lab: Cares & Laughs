@@ -2026,8 +2026,7 @@ PURPOSE AND NONINFRINGEMENT.
     desc: "Minimalist budget app that makes you log every expense so you stay aware of how much you spend and learn to manage money more wisely.",
     url: "https://play.google.com/store/apps/details?id=com.danilkinkin.buckwheat",
     tags: ["android", "finance", "budget", "minimal", "tools"]
-  }
-],
+  },
           {
   id: "noclip-website",
   type: "web-app",
