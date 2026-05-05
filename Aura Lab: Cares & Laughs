@@ -1021,6 +1021,10 @@
 <a href="https://colorhunt.co/" target="_blank" rel="noopener">
   Color Hunt
 </a>
+&nbsp;|&nbsp;
+<a href="https://codepen.io/Kavyant-Kumar/pen/xbRGvWr" target="_blank" rel="noopener">
+  Basic Eased Gradient
+</a>
 </span>
 <small>(Create your own theme â€“ background gradient, accent color, and button style.) and to activate it in the search cards type this "/" or any symbol five times.Copy the codeby selecting and and copy or download.Formate of theme to work [Hexadecimal(HEX),Red-Green-Blue(RGB),Hue-Chroma-Luminance(HSL)]</small>
 
@@ -1983,6 +1987,14 @@ PURPOSE AND NONINFRINGEMENT.
   tags: ["web", "store", "health", "energy", "focus", "nootropics"]
 },
           [
+{
+  id: "paper-crumple-codepen",
+  type: "web-experiment",
+  title: "Paper Crunple – CodePen",
+  desc: "A small front‑end experiment on CodePen that plays with a paper‑crumple style effect, showing off creative HTML/CSS/JS animation.",
+  url: "https://codepen.io/Kavyant-Kumar/pen/azBOeYW",
+  tags: ["web", "codepen", "experiment", "visual", "fun"]
+},
   {
     id: "buyhatke-android",
     type: "android-app",
