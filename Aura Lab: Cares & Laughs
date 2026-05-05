@@ -1986,7 +1986,143 @@ PURPOSE AND NONINFRINGEMENT.
   url: "https://neurogumindia.com/collections/all-products",
   tags: ["web", "store", "health", "energy", "focus", "nootropics"]
 },
-          [
+{
+  id: "google-ai-edge-gallery-android",
+  title: "Google AI Edge Gallery (FOSS)",
+  desc: "Experimental app to try on-device generative AI demos on your phone using local models, no cloud required.",
+  url: "https://play.google.com/store/apps/details?id=com.google.ai.edge.gallery",
+  image: "https://play.google.com/favicon.ico",
+  tags: "ai,android,foss,tools"
+},
+{
+  id: "kite-foss",
+  title: "Kite (FOSS AI tools hub)",
+  desc: "Open-source launcher that organizes AI tools, models, and workflows in one place on your desktop.",
+  url: "https://github.com/zenzer0s/kite/releases",
+  image: "https://github.com/favicon.ico",
+  tags: "ai,desktop,foss,launcher"
+},
+{
+  id: "punto-android",
+  title: "Punto Minimal Launcher",
+  desc: "Clean Android launcher focused on minimal icons, focus and distraction-free home screen.",
+  url: "https://play.google.com/store/apps/details?id=com.your.punto", // put the real package ID
+  image: "https://play.google.com/favicon.ico",
+  tags: "android,launcher,productivity"
+},
+{
+  id: "blockads-foss",
+  title: "BlockAds (FOSS)",
+  desc: "Open-source host-based blocker that filters ads and trackers using custom blocklists.",
+  url: "https://github.com/pass-with-high-score/blockads", // adjust to exact repo
+  image: "https://github.com/favicon.ico",
+  tags: "privacy,security,foss,tools"
+},
+{
+  id: "minimaa-launcher",
+  title: "Minimaa Launcher",
+  desc: "Super-light minimal Android launcher designed for focus and one-hand use.",
+  url: "https://play.google.com/store/apps/details?id=com.your.minimaa", // real link here
+  image: "https://play.google.com/favicon.ico",
+  tags: "android,launcher,minimal"
+},
+{
+  id: "pix-wallpapers",
+  title: "Pix Wallpapers",
+  desc: "Wallpaper app with high-quality pixel-perfect and Material-style backgrounds.",
+  url: "https://play.google.com/store/apps/details?id=com.your.pixwallpapers", // real link
+  image: "https://play.google.com/favicon.ico",
+  tags: "android,wallpapers,customisation"
+},
+{
+  id: "one-sec-android",
+  title: "one sec",
+  desc: "Mindful 'friction' app that adds a pause before you open addictive apps so you can break doomscrolling.",
+  url: "https://play.google.com/store/apps/details?id=io.oneSec.app", // check actual id
+  image: "https://play.google.com/favicon.ico",
+  tags: "focus,android,health"
+},
+{
+  id: "dopascore",
+  title: "Dopascore",
+  desc: "Track your dopamine habits and balance between fast and slow dopamine activities.",
+  url: "https://play.google.com/store/apps/details?id=com.your.dopascore", // real link
+  image: "https://play.google.com/favicon.ico",
+  tags: "health,productivity,android"
+},
+{
+  id: "bardo-app",
+  title: "Bardo",
+  desc: "Calm, reflective app to journal thoughts and navigate life transitions slowly and mindfully.",
+  url: "https://play.google.com/store/apps/details?id=com.your.bardo", // real link
+  image: "https://play.google.com/favicon.ico",
+  tags: "mental-health,journal,android"
+},
+{
+  id: "github-store-foss",
+  title: "GitHub Store (FOSS)",
+  desc: "Curated store-style index for open-source Android apps and tools hosted on GitHub releases.",
+  url: "https://github-store.org",
+  image: "https://github-store.org/favicon.ico",
+  tags: "android,foss,store"
+},
+{
+  id: "koyso-games",
+  title: "Koyso Game Hub",
+  desc: "Indie games, speedrun tools, and utilities from Koyso in one place.",
+  url: "https://koyso.com/",
+  image: "https://koyso.com/favicon.ico",
+  tags: "games,pc,indie"
+},
+{
+  id: "g4u-games",
+  title: "G4U.to",
+  desc: "Game download index with repacks and PC titles; always check legality and scan files.",
+  url: "https://g4u.to/",
+  image: "https://g4u.to/favicon.ico",
+  tags: "pc,games,downloads,warning"
+},
+{
+  id: "7launcher-cs",
+  title: "7Launcher CS",
+  desc: "Custom CS launcher with mods and configuration options; be careful with downloads.",
+  url: "https://7launcher.com/?lang=en",
+  image: "https://7launcher.com/favicon.ico",
+  tags: "pc,games,launcher,warning"
+},
+{
+  id: "creativeconor",
+  title: "Creative Conor",
+  desc: "Personal site of Creative Conor with shaders, tools and small creative coding games.",
+  url: "https://creativeconor.com/",
+  image: "https://creativeconor.com/favicon.ico",
+  tags: "web,creative-coding,games"
+},
+{
+  id: "steamrip",
+  title: "Steamrip",
+  desc: "Unofficial PC repack site for Steam games; risky, always understand piracy and malware risks.",
+  url: "https://steamrip.com/",
+  image: "https://steamrip.com/favicon.ico",
+  tags: "pc,repacks,warning"
+},
+{
+  id: "fitgirl-repacks",
+  title: "FitGirl Repacks",
+  desc: "Popular game repack site with highly compressed PC games; be fully aware of legal and safety issues.",
+  url: "https://fitgirl-repacks.site/popular-repacks/",
+  image: "https://fitgirl-repacks.site/favicon.ico",
+  tags: "pc,repacks,warning"
+},
+{
+  id: "gamingbeasts",
+  title: "GamingBeasts",
+  desc: "Unofficial site sharing cracked PC games; not recommended for legal and security reasons.",
+  url: "https://gamingbeasts.com/",
+  image: "https://gamingbeasts.com/favicon.ico",
+  tags: "pc,games,warning"
+},
+
 {
   id: "paper-crumple-codepen",
   type: "web-experiment",
