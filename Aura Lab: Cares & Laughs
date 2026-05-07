@@ -2572,6 +2572,33 @@ PURPOSE AND NONINFRINGEMENT.
     url: "https://github.com/Imtiaz-Official/Smart-Edge/releases",
     tags: ["android", "open-source", "edge", "tool"]
   },
+{
+  id: "wayback-machine",
+  type: "website",
+  title: "Wayback Machine Web Archive",
+  desc: "Browse archived copies of websites from different dates, see how pages looked in the past, and recover deleted content.",
+  url: "https://web.archive.org/",
+  image: "https://web.archive.org/favicon.ico",
+  tags: "web,archive,history,tool"
+},
+{
+  id: "wigle-wifi-map",
+  type: "website",
+  title: "WiGLE WiFi & Cell Tower Map",
+  desc: "Crowdsourced map of WiFi access points and cellular towers worldwide, useful for wardriving data and wireless recon.",
+  url: "https://wigle.net/",
+  image: "https://wigle.net/favicon.ico",
+  tags: "wifi,map,osint,network,tool"
+},
+{
+  id: "recon-search-assistant",
+  type: "android-open-source",
+  title: "Recon Search Assistant",
+  desc: "Open-source OSINT helper that chains multiple search engines and OSINT sources for faster recon workflows.",
+  url: "https://github.com/Boopath1/Recon-Search-Assistant",
+  image: "https://github.com/favicon.ico",
+  tags: "osint,open-source,security,github,tool"
+},
   {
     id: "obtainx",
     type: "android-open-source",
