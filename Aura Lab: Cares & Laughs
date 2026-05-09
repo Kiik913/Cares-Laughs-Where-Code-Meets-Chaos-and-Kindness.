@@ -2599,6 +2599,14 @@ PURPOSE AND NONINFRINGEMENT.
   image: "https://github.com/favicon.ico",
   tags: "osint,open-source,security,github,tool"
 },
+{
+  id: "game-superliminal-steam",
+  title: "Superliminal (Steam)",
+  desc: "First-person perspective-bending puzzle game where you solve rooms using forced perspective and optical illusions.",
+  url: "https://store.steampowered.com/app/1049410/Superliminal/",
+  image: "https://store.steampowered.com/favicon.ico",
+  tags: ["game", "steam", "puzzle", "perspective"]
+},
   {
     id: "obtainx",
     type: "android-open-source",
