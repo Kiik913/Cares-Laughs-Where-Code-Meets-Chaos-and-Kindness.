@@ -1986,6 +1986,129 @@ PURPOSE AND NONINFRINGEMENT.
   url: "https://neurogumindia.com/collections/all-products",
   tags: ["web", "store", "health", "energy", "focus", "nootropics"]
 },
+// Apps featured in this video + extra tools
+
+{
+  id: "calc-os-github",
+  title: "Calc OS Advanced Calculator",
+  desc: "All‑in‑one Material 3 calculator OS for Android with AI‑assisted math, unit converters, currency, and multiple calculator modes.",
+  url: "https://github.com/hyboxteam/Calc-OS",
+  image: "https://github.com/favicon.ico",
+  tags: ["android", "calculator", "ai", "math", "f-droid", "open-source"]
+},
+{
+  id: "equalizer314-fdroid",
+  title: "Equalizer314 System EQ",
+  desc: "System‑wide audio equalizer from F‑Droid that boosts volume, adds multiband EQ, and improves sound across all apps.",
+  url: "https://f-droid.org/en/packages/com.bearinmind.equalizer314/",
+  image: "https://f-droid.org/assets/favicon.ico",
+  tags: ["android", "audio", "equalizer", "f-droid", "sound"]
+},
+{
+  id: "passvault-fdroid",
+  title: "PassVault Offline Passwords",
+  desc: "Minimal, 100% offline password manager that stores all credentials locally and encrypts them using Android Keystore.",
+  url: "https://f-droid.org/en/packages/com.jksalcedo.passvault/",
+  image: "https://f-droid.org/assets/favicon.ico",
+  tags: ["android", "password-manager", "security", "offline", "f-droid"]
+},
+{
+  id: "fakecall-github",
+  title: "FakeCall Incoming Call Simulator",
+  desc: "Open-source app to simulate realistic incoming calls with custom caller name, number, and recorded audio.",
+  url: "https://github.com/DDOneApps/FakeCall",
+  image: "https://github.com/favicon.ico",
+  tags: ["android", "fun", "prank", "fake-call", "open-source"]
+},
+{
+  id: "airplanes-live-izzy",
+  title: "Airplanes Live Flight Tracker",
+  desc: "Ad‑free flight tracker alternative from IzzyOnDroid with live plane tracking and details, without Play Store bloat.",
+  url: "https://apt.izzysoft.de/fdroid/index/apk/eu.darken.apl/",
+  image: "https://apt.izzysoft.de/fdroid/repo/icons/org.fdroid.fdroid.1.png",
+  tags: ["android", "flight-tracker", "planes", "f-droid", "maps"]
+},
+{
+  id: "podium-podcasts-fdroid",
+  title: "Podium Podcasts Player",
+  desc: "Lightweight, clutter‑free podcast player focused on high‑quality audio with no ads and a clean interface.",
+  url: "https://f-droid.org/en/packages/app.podiumpodcasts.podium/",
+  image: "https://f-droid.org/assets/favicon.ico",
+  tags: ["android", "podcasts", "audio", "player", "f-droid"]
+},
+{
+  id: "kurt-account-deleter-fdroid",
+  title: "KURT Account Deletion Helper",
+  desc: "Tool that helps you find and delete accounts from hundreds of online services quickly, without dark patterns.",
+  url: "https://f-droid.org/en/packages/com.amanoteam.kurt/",
+  image: "https://f-droid.org/assets/favicon.ico",
+  tags: ["android", "privacy", "accounts", "cleanup", "f-droid"]
+},
+
+// Extra Play Store utilities from the video
+
+{
+  id: "battery-meter-play",
+  title: "Battery Meter Overlay",
+  desc: "Floating circle battery meter that shows charge level on top of all apps with customizable colors and styles.",
+  url: "https://play.google.com/store/apps/details?id=com.androxus.batterymeter",
+  image: "https://play-lh.googleusercontent.com/og-image",
+  tags: ["android", "battery", "overlay", "utility"]
+},
+{
+  id: "simpleclock-play",
+  title: "Simple Clock Widgets",
+  desc: "Minimal alarm clock, timer, stopwatch and homescreen widgets with no ads and a clean Material look.",
+  url: "https://play.google.com/store/apps/details?id=com.wssc.simpleclock",
+  image: "https://play-lh.googleusercontent.com/og-image",
+  tags: ["android", "clock", "alarm", "widget"]
+},
+{
+  id: "lawnchair-alpha-launcher",
+  title: "Lawnchair Alpha Launcher",
+  desc: "Highly customizable Pixel‑style home screen launcher with gestures, icon packs, and smart features in alpha builds.",
+  url: "https://play.google.com/store/apps/details?id=launcher.alpha",
+  image: "https://play-lh.googleusercontent.com/og-image",
+  tags: ["android", "launcher", "home-screen", "customization"]
+},
+{
+  id: "energy-ring-play",
+  title: "Energy Ring Battery Indicator",
+  desc: "Colorful ring around your camera cutout that shows battery level live, with smooth animations and styles.",
+  url: "https://play.google.com/store/apps/details?id=you.in.spark.energy.ring.gen",
+  image: "https://play-lh.googleusercontent.com/og-image",
+  tags: ["android", "battery", "visual", "customization"]
+},
+
+// Your Mother's Day CodePen
+
+{
+  id: "mothers-day-heart-pen",
+  title: "Happy Mother's Day! To the heart of my world 🌸",
+  desc: "A sweet Mother's Day tribute Pen with warm visuals and a heartfelt message for the most important person in your life.",
+  url: "https://codepen.io/Kavyant-Kumar/pen/jEVqYJJ?editors=1010",
+  image: "https://codepen.io/favicon.ico",
+  tags: ["codepen", "special", "mother's-day", "art", "greeting"]
+},
+
+// Google Flow TV experimental channels
+
+{
+  id: "google-flow-tv-channels",
+  title: "Google Flow TV Channels",
+  desc: "Experimental Google Labs TV‑style channels with continuous AI‑generated and curated content streams.",
+  url: "https://labs.google/flow/tv/channels",
+  image: "https://labs.google/favicon.ico",
+  tags: ["google", "labs", "experimental", "tv", "ai"]
+},
+{
+  id: "google-flow-tv-majorly-scaled",
+  title: "Flow TV: Majorly Scaled Channel",
+  desc: "A Flow TV channel focused on massively scaled visuals and audio, playing random episodes in an endless stream.",
+  url: "https://labs.google/flow/tv/channel/majorly-scaled/9V2UwUE9OxkZAhpRSwac?random=true",
+  image: "https://labs.google/favicon.ico",
+  tags: ["google", "labs", "flow", "tv", "visual"]
+},
 {
   id: "google-ai-edge-gallery-android",
   title: "Google AI Edge Gallery (FOSS)",
