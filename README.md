@@ -1,4 +1,4 @@
-👋 Welcome to Cares & Laughs – Googolplex v.1.0.0!
+👋 Welcome to Cares & Laughs – Googolplex v.19.0.0!
 
 You've just entered a fun, playful corner of the internet where learning meets laughter and creativity spins at near‑infinite speed (well, almost a googolplex!).  
 This is more than just a demo—it’s your personal sandbox to explore, tinker, and see how tiny changes can create big effects.
