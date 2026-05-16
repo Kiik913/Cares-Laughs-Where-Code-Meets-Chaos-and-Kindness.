@@ -21825,6 +21825,16 @@ const APP_CODENAME = "Cares & Laughs – Googolplex";
                 allowfullscreen></iframe>
       </div>
     </div>
+<div class="video-card">
+      <div class="playlist-title">Desert Temple Chill+</div>
+      <div class="video-wrapper">
+        <iframe src="https://www.youtube.com/embed/2eGMuCKYHos?si=W9_TxNJ1buyvrTRC"
+                title="Desert Temple Chill"
+                referrerpolicy="strict-origin-when-cross-origin"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen></iframe>
+      </div>
+    </div>
   </div>
   <script>
     // simple theme customisation
