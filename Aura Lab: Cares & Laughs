@@ -21835,6 +21835,36 @@ const APP_CODENAME = "Cares & Laughs – Googolplex";
                 allowfullscreen></iframe>
       </div>
     </div>
+ <div class="video-card">
+      <div class="playlist-title">Intense Study - 40Hz Gamma Binaural Beats to Increase Productivity and Focus</div>
+      <div class="video-wrapper">
+        <iframe src="https://www.youtube.com/embed/lkkGlVWvkLk?si=m5-uX4BXqaMf0w4"
+                title="Desert Temple Chill"
+                referrerpolicy="strict-origin-when-cross-origin"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen></iframe>
+      </div>
+    </div>
+ <div class="video-card">
+      <div class="playlist-title">Study Deep Dive | 14Hz Betawave Music | Binaural Beats for Maximum Concentration</div>
+      <div class="video-wrapper">
+        <iframe src="https://www.youtube.com/embed/ZoG7Xq2Ut1A?si=ItyRhiJKSnZ0oG92"
+                title="Desert Temple Chill"
+                referrerpolicy="strict-origin-when-cross-origin"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen></iframe>
+      </div>
+    </div>
+<div class="video-card">
+      <div class="playlist-title">10 Minute Guided Meditation For Exam Anxiety and Stress with 8Hz Alpha Binaural Beats</div>
+      <div class="video-wrapper">
+        <iframe src="https://www.youtube.com/embed/P-_eTq4WOys?si=0CXZ-c0CzyAS8D24"
+                title="Desert Temple Chill"
+                referrerpolicy="strict-origin-when-cross-origin"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen></iframe>
+      </div>
+    </div>
   </div>
   <script>
     // simple theme customisation
