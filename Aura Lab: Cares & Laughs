@@ -1043,25 +1043,28 @@
   <span class="chip-emoji">🪪</span>
   <span class="chip-text">Profile Image → URL(Direct) (320×320) • copy direct link</span>
 </a>
-    <!-- Connect -->
-    <p style="margin-top:0.75rem; font-size:0.9rem;">
-      <strong>Connect (Owner):</strong><br>
-      <a href="https://www.instagram.com/kavyanthub/" target="_blank" class="social-link insta">
-        📸 Instagram @kavyanthub
-      </a><br>
-      <a href="https://www.youtube.com/@CareLabStudio" target="_blank" class="social-link yt">
-        🎥 YouTube @CareLabStudio
-      </a><br>
-      <a href="https://www.facebook.com/profile.php?id=61586003535719" target="_blank" class="social-link fb">
-        📘 Facebook @kavyanthub
-      </a><br>
-      <a href="https://github.com/Kiik913" target="_blank" class="social-link GitHub">
-        👾 GitHub Kiik913
-      </a><br>
-      <a href="https://dev.to/kavyant_kumar_aca4746d16f" target="_blank" class="social-link devto">
-        💻 dev.to @kavyant_kumar_aca4746d16f
-      </a><br>
-    </p>
+  <!-- Connect -->
+<p style="margin-top:0.75rem; font-size:0.9rem;">
+  <strong>Connect (Owner):</strong><br>
+  <a href="https://www.instagram.com/kavyanthub/" target="_blank" class="social-link insta">
+    📸 Instagram @kavyanthub
+  </a><br>
+  <a href="https://www.youtube.com/@CareLabStudio" target="_blank" class="social-link yt">
+    🎥 YouTube @CareLabStudio
+  </a><br>
+  <a href="https://www.facebook.com/profile.php?id=61586003535719" target="_blank" class="social-link fb">
+    📘 Facebook @kavyanthub
+  </a><br>
+  <a href="https://github.com/Kiik913" target="_blank" class="social-link GitHub">
+    👾 GitHub Kiik913
+  </a><br>
+  <a href="https://dev.to/kavyant_kumar_aca4746d16f" target="_blank" class="social-link devto">
+    💻 dev.to @kavyant_kumar_aca4746d16f
+  </a><br>
+  <a href="https://discord.com/channels/1505857480503197696/1506514979770335292" target="_blank" class="social-link discord">
+    🧪 Aura Lab's Server
+  </a><br>
+</p>
 
     <p style="margin-top:0.75rem; font-size:0.9rem;">
       💡 <strong>Ideas welcome!</strong> You can also send safe games or prank ideas you want to see here.
