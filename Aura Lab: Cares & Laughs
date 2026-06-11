@@ -21626,7 +21626,7 @@ const APP_CODENAME = "Cares & Laughs – Googolplex";
   </style>
 </head>
 <body>
-  <h1>🎵 Aura Lab: Cares & Laughs</h1>
+  <h1>🎵 Aura Lab: Cares & Laughs 2 </h1>
   <div class="subtitle">Minecraft Vibes – customise the aura to match your mood.</div>
 <button id="saveThemeBtn" class="save-btn">💾 Save Theme</button>
   <!-- simple customisation controls -->
@@ -21655,7 +21655,7 @@ const APP_CODENAME = "Cares & Laughs – Googolplex";
 
   <div class="videos-container">
     <div class="video-card">
-      <div class="playlist-title">Minecraft Ambient Vibes</div>
+      <div class="playlist-title">12 HOURS⚡TOP MOST VIRAL PHONK/FUNK 2026 SONGS🎵 PLAYLIST</div>
       <div class="video-wrapper">
         <iframe src="https://www.youtube.com/embed/jNxFmRn7Nbg"
                 title="Minecraft Ambient Vibes"
@@ -21665,7 +21665,7 @@ const APP_CODENAME = "Cares & Laughs – Googolplex";
     </div>
 
     <div class="video-card">
-      <div class="playlist-title">C418 Volume Alpha OST</div>
+      <div class="playlist-title">12 HOURS⚡MOST VIRAL PHONK/FUNK 2026 PLAYLIST</div>
       <div class="video-wrapper">
         <iframe src="https://www.youtube.com/embed/videoseries?si=Flbth6gKw_z5s8af&list=PL9YCucqi93ebgHY18eNyKKCfE1PS_px34"
                 title="C418 Volume Alpha OST"
@@ -21676,7 +21676,7 @@ const APP_CODENAME = "Cares & Laughs – Googolplex";
     </div>
 
     <div class="video-card">
-      <div class="playlist-title">Chill Minecraft Phonk</div>
+      <div class="playlist-title">lofi study music - chill beats to study to / relax</div>
       <div class="video-wrapper">
         <iframe src="https://www.youtube.com/embed/videoseries?si=5Wi6bBVyxAw78HmL&list=PLNIOIzEHtNJZU_29QVd-LVCTvL83YmGRv"
                 title="Chill Minecraft Phonk"
@@ -21687,7 +21687,7 @@ const APP_CODENAME = "Cares & Laughs – Googolplex";
     </div>
 
     <div class="video-card">
-      <div class="playlist-title">Nighttime Minecraft Mix</div>
+      <div class="playlist-title">lofi study music - chill beats to study to / relax</div>
       <div class="video-wrapper">
         <iframe src="https://www.youtube.com/embed/videoseries?si=xtExErduYhsQQGVI&list=PLNIOIzEHtNJZa5GSrensAD1k_G8ybBMh0"
                 title="Nighttime Minecraft Mix"
@@ -21698,7 +21698,7 @@ const APP_CODENAME = "Cares & Laughs – Googolplex";
     </div>
 
     <div class="video-card">
-      <div class="playlist-title">Deep Cave Ambience</div>
+      <div class="playlist-title">lofi study music - chill beats to study to / relax</div>
       <div class="video-wrapper">
         <iframe src="https://www.youtube.com/embed/videoseries?si=uuLNjiEA0C7wO15a&list=PLNIOIzEHtNJb0M7hkg9MqFgNN1SzwzKHR"
                 title="Deep Cave Ambience"
@@ -21709,7 +21709,7 @@ const APP_CODENAME = "Cares & Laughs – Googolplex";
     </div>
 
     <div class="video-card">
-      <div class="playlist-title">Calm Phonk Minecraft</div>
+      <div class="playlist-title">Deep Sleep Music for Insomnia 🌟 Twilight Landscape with Relaxing Music for Sleeping Peacefully</div>
       <div class="video-wrapper">
         <iframe src="https://www.youtube.com/embed/videoseries?si=K3qqagq7_-Y11Jpr&list=PLNIOIzEHtNJZDyNQIMLFJvJqF2oEijIYw"
                 title="Calm Phonk Minecraft"
@@ -21720,7 +21720,7 @@ const APP_CODENAME = "Cares & Laughs – Googolplex";
     </div>
 
     <div class="video-card">
-      <div class="playlist-title">Relaxing Block Vibes</div>
+      <div class="playlist-title">Deep Focus - Music For Studying, Concentration and Work</div>
       <div class="video-wrapper">
         <iframe src="https://www.youtube.com/embed/videoseries?si=FVc2dyjHdDWl4iiF&list=PLNIOIzEHtNJYc9Kk8nD2xB2eFDCBVkC66"
                 title="Relaxing Block Vibes"
@@ -21731,7 +21731,7 @@ const APP_CODENAME = "Cares & Laughs – Googolplex";
     </div>
 
     <div class="video-card">
-      <div class="playlist-title">Minecraft Lofi Night</div>
+      <div class="playlist-title">Deep Relaxing Music - Calming, Peaceful, Soothing, Study Music with Rain Sounds & Guitar Music</div>
       <div class="video-wrapper">
         <iframe src="https://www.youtube.com/embed/videoseries?si=ZZGyQchXGuISMA1r&list=PLNIOIzEHtNJau48tuF3QmVfiFlz2aQ9HM"
                 title="Minecraft Lofi Night"
@@ -21742,7 +21742,7 @@ const APP_CODENAME = "Cares & Laughs – Googolplex";
     </div>
 
     <div class="video-card">
-      <div class="playlist-title">Cozy Nether Vibes</div>
+      <div class="playlist-title">Aurora Borealis And Northern Lights - Relaxing Ambient Music for Sleep, Study & Stress Relief</div>
       <div class="video-wrapper">
         <iframe src="https://www.youtube.com/embed/videoseries?si=X5Joh7bdX0APCSbt&list=PLNIOIzEHtNJYOVi6gkCoV5nJA0XGKHJg9"
                 title="Cozy Nether Vibes"
@@ -21753,7 +21753,7 @@ const APP_CODENAME = "Cares & Laughs – Googolplex";
     </div>
 
     <div class="video-card">
-      <div class="playlist-title">Peaceful Village Mix</div>
+      <div class="playlist-title">Beautiful Aquarium & Relaxing Music – Study, Reading, Sleep, Yoga – Soothing Ambient Sounds</div>
       <div class="video-wrapper">
         <iframe src="https://www.youtube.com/embed/videoseries?si=hhisArjIZDX5KWu7&list=PLNIOIzEHtNJaYS8l4iHejJldk5syPruqw"
                 title="Peaceful Village Mix"
@@ -21764,7 +21764,7 @@ const APP_CODENAME = "Cares & Laughs – Googolplex";
     </div>
 
     <div class="video-card">
-      <div class="playlist-title">Ocean Monument Chill</div>
+      <div class="playlist-title">Ambient Study Music To Concentrate - 4 Hours of Music for Studying, Concentration and Memory</div>
       <div class="video-wrapper">
         <iframe src="https://www.youtube.com/embed/videoseries?si=TzJTIDCaI6iRNzvX&list=PLNIOIzEHtNJb6vZyIFTUocImfK54WKfuY"
                 title="Ocean Monument Chill"
@@ -21775,7 +21775,7 @@ const APP_CODENAME = "Cares & Laughs – Googolplex";
     </div>
 
     <div class="video-card">
-      <div class="playlist-title">End Dimension Vibes</div>
+      <div class="playlist-title">Ambient Music | Deep Focus | Study Music | Relaxing Music for Focus | Homework Music</div>
       <div class="video-wrapper">
         <iframe src="https://www.youtube.com/embed/videoseries?si=4sCjYNzhRsoNUaAL&list=PLNIOIzEHtNJYbPIxqikdPHhCDM9Ribi2Q"
                 title="End Dimension Vibes"
@@ -21786,7 +21786,7 @@ const APP_CODENAME = "Cares & Laughs – Googolplex";
     </div>
 
     <div class="video-card">
-      <div class="playlist-title">Forest Biome Phonk</div>
+      <div class="playlist-title">Cityscape Music - 3 Hours of Ambient Study Music with City Background Video</div>
       <div class="video-wrapper">
         <iframe src="https://www.youtube.com/embed/videoseries?si=dFBHj12G-Ec9iAcJ&list=PLNIOIzEHtNJYu5sC1xziPIWM68k2U07l0"
                 title="Forest Biome Phonk"
@@ -21797,7 +21797,7 @@ const APP_CODENAME = "Cares & Laughs – Googolplex";
     </div>
 
     <div class="video-card">
-      <div class="playlist-title">Snowy Peaks Relax</div>
+      <div class="playlist-title">Ambient Study Music To Concentrate - 4 Hours of Music for Studying, Concentration and Memory</div>
       <div class="video-wrapper">
         <iframe src="https://www.youtube.com/embed/videoseries?si=XIzz26UkptESM3BL&list=PLNIOIzEHtNJYwBFuc_Ha08Mh3WpJWOHNn"
                 title="Snowy Peaks Relax"
@@ -21808,7 +21808,7 @@ const APP_CODENAME = "Cares & Laughs – Googolplex";
     </div>
 
     <div class="video-card">
-      <div class="playlist-title">Desert Temple Chill</div>
+      <div class="playlist-title">Deep Focus Music 🔵 Relaxing Music for Studying with Binaural Beats</div>
       <div class="video-wrapper">
         <iframe src="https://www.youtube.com/embed/videoseries?si=Ft0ZjVTLJfpJt-FN&list=PLNIOIzEHtNJb897G20s9Y73dA5zmkio9A"
                 title="Desert Temple Chill"
@@ -21819,7 +21819,7 @@ const APP_CODENAME = "Cares & Laughs – Googolplex";
     </div>
 
     <div class="video-card">
-      <div class="playlist-title">Ultimate MC Mix</div>
+      <div class="playlist-title">Ambient Study Music To Concentrate - 4 Hours of Music for Studying, Concentration and Memory</div>
       <div class="video-wrapper">
         <iframe src="https://www.youtube.com/embed/videoseries?si=oenUYhJ67WcY94gq&list=PLNIOIzEHtNJZ-LtpUo68J2_TKSc8O2oCK"
                 title="Ultimate MC Mix"
@@ -21828,8 +21828,8 @@ const APP_CODENAME = "Cares & Laughs – Googolplex";
                 allowfullscreen></iframe>
       </div>
     </div>
-<div class="video-card">
-      <div class="playlist-title">Desert Temple Chill+</div>
+		<div class="video-card">
+      <div class="playlist-title">Herobrine SMP Ka Iyaade 💔 | Fan-Made Song for Ujjwal</div>
       <div class="video-wrapper">
         <iframe src="https://www.youtube.com/embed/2eGMuCKYHos?si=W9_TxNJ1buyvrTRC"
                 title="Desert Temple Chill"
@@ -21838,7 +21838,7 @@ const APP_CODENAME = "Cares & Laughs – Googolplex";
                 allowfullscreen></iframe>
       </div>
     </div>
- <div class="video-card">
+		 <div class="video-card">
       <div class="playlist-title">Intense Study - 40Hz Gamma Binaural Beats to Increase Productivity and Focus</div>
       <div class="video-wrapper">
         <iframe src="https://www.youtube.com/embed/lkkGlVWvkLk?si=m5-uX4BXqaMf0w4"
@@ -21862,6 +21862,46 @@ const APP_CODENAME = "Cares & Laughs – Googolplex";
       <div class="playlist-title">10 Minute Guided Meditation For Exam Anxiety and Stress with 8Hz Alpha Binaural Beats</div>
       <div class="video-wrapper">
         <iframe src="https://www.youtube.com/embed/P-_eTq4WOys?si=0CXZ-c0CzyAS8D24"
+                title="Desert Temple Chill"
+                referrerpolicy="strict-origin-when-cross-origin"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen></iframe>
+      </div>
+    </div>
+		<div class="video-card">
+      <div class="playlist-title">Engaged Mind - 25Hz Beta Binaural Beats To Increase Concentration and Focus</div>
+      <div class="video-wrapper">
+        <iframe src="https://www.youtube.com/embed/Iu5ZqdpBRHE?si=GlF4d1gPK8q9-p9K"
+                title="Desert Temple Chill"
+                referrerpolicy="strict-origin-when-cross-origin"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen></iframe>
+      </div>
+    </div>
+		<div class="video-card">
+      <div class="playlist-title">Creative State - 8Hz Alpha Brainwaves - Binaural Beats for Creative Flow and Calm Focus</div>
+      <div class="video-wrapper">
+        <iframe src="https://www.youtube.com/embed/dncoVimgtJs?si=spe9DO65fV6j9LpA"
+                title="Desert Temple Chill"
+                referrerpolicy="strict-origin-when-cross-origin"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen></iframe>
+      </div>
+    </div>
+		<div class="video-card">
+      <div class="playlist-title">Sharpen Study Skills: Pomodoro Timer with 18Hz Binaural Beats for Peak Performance</div>
+      <div class="video-wrapper">
+        <iframe src="https://www.youtube.com/embed/gBuTIG_hkWc?si=FVtjwF_yKWs1YdnS"
+                title="Desert Temple Chill"
+                referrerpolicy="strict-origin-when-cross-origin"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen></iframe>
+      </div>
+    </div>
+		<div class="video-card">
+      <div class="playlist-title">ava max - choose your fighter [ slowed + reverb ] (lyrics)</div>
+      <div class="video-wrapper">
+        <iframe src="https://www.youtube.com/embed/SWwJpRCP5gc?si=aSHq4mcDtKqzsCi"
                 title="Desert Temple Chill"
                 referrerpolicy="strict-origin-when-cross-origin"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -21922,7 +21962,6 @@ const APP_CODENAME = "Cares & Laughs – Googolplex";
           </p>
           <div id="google-translate-dropdown"></div>
         </div>
-</div>
 ---------------------------------------------------------------------------------------Cascading Style Sheets (CSS)-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 .save-btn {
   padding: 10px 20px;
