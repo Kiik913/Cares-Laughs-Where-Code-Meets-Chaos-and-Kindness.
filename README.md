@@ -30,6 +30,43 @@ Did you know? Minecraft was created by Markus “Notch” Persson in 2009, long 
 - Fully customisable theme so you can make the hub feel like your own creative base.
 
 Happy coding, keep caring, and keep laughing!  
+## ⚠️ Known Limitations
+
+While Aura Lab is designed to work entirely in the browser, some content depends on external resources.
+
+### Image Hosting Reliability
+
+Some images used by the project are loaded from third-party URLs. Over time, these image hosts may:
+
+- Remove images
+- Change permissions
+- Expire links
+- Block hotlinking
+- Shut down services
+
+If this happens, certain images may stop displaying even though the application itself is working correctly.
+
+This has happened in previous versions of Aura Lab where image URLs that originally worked later became unavailable, causing missing images throughout the project.
+
+### Recommended Solution
+
+For long-term stability:
+
+- Store images inside the repository (`/assets/images`)
+- Use GitHub-hosted assets
+- Use trusted image CDNs
+- Keep backup copies of important images
+
+This helps ensure that visuals remain available even if external image providers change or remove their content.
+
+### Future Improvements
+
+- Local image caching
+- Automatic image fallback system
+- Backup image sources
+- Improved error handling for missing images
+
+  ---
 This app also gets regular updates, and you can follow more builds, posts, and fun content here:
 
 📺 YouTube – CareLab Studio  
