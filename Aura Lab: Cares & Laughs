@@ -21626,7 +21626,7 @@ const APP_CODENAME = "Cares & Laughs – Googolplex";
   </style>
 </head>
 <body>
-  <h1>🎵 Aura Lab: Cares & Laughs 2 </h1>
+ <h1>🎵 Aura Lab: Cares & Laughs 2 </h1>
   <div class="subtitle">Minecraft Vibes – customise the aura to match your mood.</div>
 <button id="saveThemeBtn" class="save-btn">💾 Save Theme</button>
   <!-- simple customisation controls -->
@@ -21659,6 +21659,7 @@ const APP_CODENAME = "Cares & Laughs – Googolplex";
       <div class="video-wrapper">
         <iframe src="https://www.youtube.com/embed/jNxFmRn7Nbg"
                 title="Minecraft Ambient Vibes"
+								loading="lazy"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                 allowfullscreen></iframe>
       </div>
@@ -21669,6 +21670,7 @@ const APP_CODENAME = "Cares & Laughs – Googolplex";
       <div class="video-wrapper">
         <iframe src="https://www.youtube.com/embed/videoseries?si=Flbth6gKw_z5s8af&list=PL9YCucqi93ebgHY18eNyKKCfE1PS_px34"
                 title="C418 Volume Alpha OST"
+								loading="lazy"
                 referrerpolicy="strict-origin-when-cross-origin"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                 allowfullscreen></iframe>
@@ -21691,6 +21693,7 @@ const APP_CODENAME = "Cares & Laughs – Googolplex";
       <div class="video-wrapper">
         <iframe src="https://www.youtube.com/embed/videoseries?si=xtExErduYhsQQGVI&list=PLNIOIzEHtNJZa5GSrensAD1k_G8ybBMh0"
                 title="Nighttime Minecraft Mix"
+								loading="lazy"
                 referrerpolicy="strict-origin-when-cross-origin"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                 allowfullscreen></iframe>
@@ -21702,6 +21705,7 @@ const APP_CODENAME = "Cares & Laughs – Googolplex";
       <div class="video-wrapper">
         <iframe src="https://www.youtube.com/embed/videoseries?si=uuLNjiEA0C7wO15a&list=PLNIOIzEHtNJb0M7hkg9MqFgNN1SzwzKHR"
                 title="Deep Cave Ambience"
+								loading="lazy"
                 referrerpolicy="strict-origin-when-cross-origin"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                 allowfullscreen></iframe>
@@ -21713,6 +21717,7 @@ const APP_CODENAME = "Cares & Laughs – Googolplex";
       <div class="video-wrapper">
         <iframe src="https://www.youtube.com/embed/videoseries?si=K3qqagq7_-Y11Jpr&list=PLNIOIzEHtNJZDyNQIMLFJvJqF2oEijIYw"
                 title="Calm Phonk Minecraft"
+								loading="lazy"
                 referrerpolicy="strict-origin-when-cross-origin"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                 allowfullscreen></iframe>
@@ -21724,6 +21729,7 @@ const APP_CODENAME = "Cares & Laughs – Googolplex";
       <div class="video-wrapper">
         <iframe src="https://www.youtube.com/embed/videoseries?si=FVc2dyjHdDWl4iiF&list=PLNIOIzEHtNJYc9Kk8nD2xB2eFDCBVkC66"
                 title="Relaxing Block Vibes"
+								loading="lazy"
                 referrerpolicy="strict-origin-when-cross-origin"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                 allowfullscreen></iframe>
@@ -21735,6 +21741,7 @@ const APP_CODENAME = "Cares & Laughs – Googolplex";
       <div class="video-wrapper">
         <iframe src="https://www.youtube.com/embed/videoseries?si=ZZGyQchXGuISMA1r&list=PLNIOIzEHtNJau48tuF3QmVfiFlz2aQ9HM"
                 title="Minecraft Lofi Night"
+								loading="lazy"
                 referrerpolicy="strict-origin-when-cross-origin"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                 allowfullscreen></iframe>
@@ -21757,6 +21764,7 @@ const APP_CODENAME = "Cares & Laughs – Googolplex";
       <div class="video-wrapper">
         <iframe src="https://www.youtube.com/embed/videoseries?si=hhisArjIZDX5KWu7&list=PLNIOIzEHtNJaYS8l4iHejJldk5syPruqw"
                 title="Peaceful Village Mix"
+								loading="lazy"
                 referrerpolicy="strict-origin-when-cross-origin"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                 allowfullscreen></iframe>
@@ -21779,6 +21787,7 @@ const APP_CODENAME = "Cares & Laughs – Googolplex";
       <div class="video-wrapper">
         <iframe src="https://www.youtube.com/embed/videoseries?si=4sCjYNzhRsoNUaAL&list=PLNIOIzEHtNJYbPIxqikdPHhCDM9Ribi2Q"
                 title="End Dimension Vibes"
+								loading="lazy"
                 referrerpolicy="strict-origin-when-cross-origin"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                 allowfullscreen></iframe>
@@ -21790,6 +21799,7 @@ const APP_CODENAME = "Cares & Laughs – Googolplex";
       <div class="video-wrapper">
         <iframe src="https://www.youtube.com/embed/videoseries?si=dFBHj12G-Ec9iAcJ&list=PLNIOIzEHtNJYu5sC1xziPIWM68k2U07l0"
                 title="Forest Biome Phonk"
+								loading="lazy"
                 referrerpolicy="strict-origin-when-cross-origin"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                 allowfullscreen></iframe>
@@ -21801,6 +21811,7 @@ const APP_CODENAME = "Cares & Laughs – Googolplex";
       <div class="video-wrapper">
         <iframe src="https://www.youtube.com/embed/videoseries?si=XIzz26UkptESM3BL&list=PLNIOIzEHtNJYwBFuc_Ha08Mh3WpJWOHNn"
                 title="Snowy Peaks Relax"
+								loading="lazy"
                 referrerpolicy="strict-origin-when-cross-origin"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                 allowfullscreen></iframe>
@@ -21812,6 +21823,7 @@ const APP_CODENAME = "Cares & Laughs – Googolplex";
       <div class="video-wrapper">
         <iframe src="https://www.youtube.com/embed/videoseries?si=Ft0ZjVTLJfpJt-FN&list=PLNIOIzEHtNJb897G20s9Y73dA5zmkio9A"
                 title="Desert Temple Chill"
+								loading="lazy"
                 referrerpolicy="strict-origin-when-cross-origin"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                 allowfullscreen></iframe>
@@ -21833,6 +21845,7 @@ const APP_CODENAME = "Cares & Laughs – Googolplex";
       <div class="video-wrapper">
         <iframe src="https://www.youtube.com/embed/2eGMuCKYHos?si=W9_TxNJ1buyvrTRC"
                 title="Desert Temple Chill"
+								loading="lazy"
                 referrerpolicy="strict-origin-when-cross-origin"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                 allowfullscreen></iframe>
@@ -21843,6 +21856,7 @@ const APP_CODENAME = "Cares & Laughs – Googolplex";
       <div class="video-wrapper">
         <iframe src="https://www.youtube.com/embed/lkkGlVWvkLk?si=m5-uX4BXqaMf0w4"
                 title="Desert Temple Chill"
+								loading="lazy"
                 referrerpolicy="strict-origin-when-cross-origin"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                 allowfullscreen></iframe>
@@ -21863,6 +21877,7 @@ const APP_CODENAME = "Cares & Laughs – Googolplex";
       <div class="video-wrapper">
         <iframe src="https://www.youtube.com/embed/P-_eTq4WOys?si=0CXZ-c0CzyAS8D24"
                 title="Desert Temple Chill"
+								loading="lazy"
                 referrerpolicy="strict-origin-when-cross-origin"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                 allowfullscreen></iframe>
@@ -21883,6 +21898,7 @@ const APP_CODENAME = "Cares & Laughs – Googolplex";
       <div class="video-wrapper">
         <iframe src="https://www.youtube.com/embed/dncoVimgtJs?si=spe9DO65fV6j9LpA"
                 title="Desert Temple Chill"
+								loading="lazy"
                 referrerpolicy="strict-origin-when-cross-origin"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                 allowfullscreen></iframe>
@@ -21893,6 +21909,7 @@ const APP_CODENAME = "Cares & Laughs – Googolplex";
       <div class="video-wrapper">
         <iframe src="https://www.youtube.com/embed/gBuTIG_hkWc?si=FVtjwF_yKWs1YdnS"
                 title="Desert Temple Chill"
+								loading="lazy"
                 referrerpolicy="strict-origin-when-cross-origin"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                 allowfullscreen></iframe>
@@ -21903,6 +21920,7 @@ const APP_CODENAME = "Cares & Laughs – Googolplex";
       <div class="video-wrapper">
         <iframe src="https://www.youtube.com/embed/SWwJpRCP5gc?si=aSHq4mcDtKqzsCi"
                 title="Desert Temple Chill"
+								loading="lazy"
                 referrerpolicy="strict-origin-when-cross-origin"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                 allowfullscreen></iframe>
