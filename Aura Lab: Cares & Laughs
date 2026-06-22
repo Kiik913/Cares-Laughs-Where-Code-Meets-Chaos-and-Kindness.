@@ -20742,7 +20742,7 @@ function loadDailyFeatured() {
       localStorage.setItem("userProfile", JSON.stringify(userProfile));
     }
 
-    /***************
+     /***************
      * Profile
      **************/
  const userNameElem   = document.getElementById("userName");
@@ -20763,7 +20763,13 @@ function renderProfile() {
     const url =
       userProfile.avatar ||
       `https://api.dicebear.com/8.x/thumbs/svg?seed=${seed}`;
-    userAvatarElem.innerHTML = `<img src="${url}" alt="Avatar">`;
+  userAvatarElem.innerHTML = `
+  <img
+    src="${url}"
+    alt="Avatar"
+    loading="lazy"
+    decoding="async">
+`;
   }
 }
 editProfileBtn.onclick = () => {
